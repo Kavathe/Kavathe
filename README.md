@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Adavace AWS**
 
-- 📝 I regularly write poetry on [https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US](https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US)
+- 📝 I regularly Post poetry on [https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US](https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US)
 
-- 💬 Ask me about **MERN Stack,DSA,OPP,Cloud Computing,DBMS,OS**
+- 💬 Ask me about **MERN Stack,DSA,OOP,Cloud Computing,DBMS,OS**
 
 - 📫 How to reach me **shivprasadkavathe98176@gmail.com**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivprasad kavathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivprasad kavathe" height="30" width="40" /></a>
 <a href="https://fb.com/shivprasad kavathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivprasad kavathe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shvivprasad kavathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shvivprasad kavathe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivprasad kavathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shvivprasad kavathe" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivprasadkak37h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivprasadkak37h" height="30" width="40" /></a>
 </p>
 
