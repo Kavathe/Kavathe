@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shivprasadkavathe98176@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kCDVOYI_9btuE3or4WjVcHIGkaddxKOz/view?usp=sharing](https://drive.google.com/file/d/1kCDVOYI_9btuE3or4WjVcHIGkaddxKOz/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1jjT6sKS_Rgz1EZkFHeCxrQhs9r5ti94w/view?usp=drive_link
 
 - ⚡ Fun fact **😂**
 
