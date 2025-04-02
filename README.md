@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Adavace AWS**
 
-- 📝 I regularly Post poetry on [https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US](https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US)
+- 📝 I Post poetry on [https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US](https://www.snapchat.com/add/bhbdhhudf?share_id=T8x12d8CWNk&locale=en-US)
 
 - 💬 Ask me about **MERN Stack,DSA,OOP,Cloud Computing,DBMS,OS**
 
